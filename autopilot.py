@@ -4,7 +4,7 @@ import krpc
 import time
 
 # Установка соединения с kRPC
-connection = krpc.connect(name="Rocket Simulation")
+connection = krpc.connect(name="Sputnik-1 launch")
 vessel = connection.space_center.active_vessel
 ap = vessel.auto_pilot
 controls = vessel.control
