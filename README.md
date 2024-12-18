@@ -21,9 +21,8 @@
                                                                                                               
 # РЕЗУЛЬТАТЫ
 
-# Физ и Мат модель 
+# Отчет
 https://docs.google.com/document/d/1-UfpgYPfFohHqkrRapX6yKpGkbBu6NgswFMJhk1b3Q8/edit?tab=t.0
 # Видео Полета
 https://drive.google.com/file/d/10YJyEA70f7IStQiJhm034vwbGKRWPmqy/view?usp=sharing
-# Отчет
---------------------------------------------------------------------------------------------
+
