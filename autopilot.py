@@ -27,7 +27,7 @@ def main():
     )
 
     # Получение объекта топливного бака
-    fuel_tank = vessel.parts.with_tag("rk-7")[0]
+    fuel_tank = vessel.parts.with_tag("fuel")[0]
 
     # Получение объекта ресурса LiquidFuel
     liquid_fuel_resource = fuel_tank.resources.with_resource("LiquidFuel")[0]
